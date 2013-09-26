@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/HW1.dir/main.o CMakeFiles/HW1.dir/reference_calc.o CMakeFiles/HW1.dir/compare.o  -o HW1  
